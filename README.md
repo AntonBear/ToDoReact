@@ -1,10 +1,21 @@
-# React Project
+###### React Project
 
-## Available Scripts
+##### 1. Clone the Repository:
 
-In the project directory, you can run:
+```bash
+Git clone https://github.com/AntonBear/ToDoReact.git
+```
 
-### `npm start`
+##### 2. Install Dependencies:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+cd ToDoReact
+npm install
+
+```
+
+##### 3. Run the Application:
+
+```bash
+npm start
+```
