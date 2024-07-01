@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "hamepage": "https://antonbear.github.io/ToDoReact",
+=======
+  "hamepage": "https://AntonBear.github.io/ToDoReact",
+>>>>>>> 59b6c09a2ffe940bb426832e9298837241e5e9c5
   "name": "99-template",
   "version": "0.1.0",
   "private": false,
